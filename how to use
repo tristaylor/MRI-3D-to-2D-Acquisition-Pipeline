@@ -1,0 +1,8 @@
+1. Clone the repository:
+   git clone https://github.com/yourusername/mri-3d-to-2d-pipeline.git
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the notebook:
+   jupyter notebook
