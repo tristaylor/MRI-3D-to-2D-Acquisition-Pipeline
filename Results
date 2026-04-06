@@ -1,0 +1,9 @@
+Results
+The pipeline successfully generates 2D representations from 3D MRI data, enabling easier visualization and compatibility with 2D-based analytical models.
+SSIM: 0.9152997085369198 
+PSNR: 19.138508 
+NCC: 0.9933788
+Example simulation can be seen in notebook
+Key design choice
+- Physics-based slice profile (Gaussian filtering): 
+- interpretable, no training data required
